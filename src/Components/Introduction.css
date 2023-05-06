@@ -1,0 +1,14 @@
+
+.icon-details{
+    display: flex;
+    align-items: center;
+    
+    
+}
+.details{
+    margin: 8px;
+}
+.quiz{
+    /* align-items: center; */
+    margin: auto;
+}
